@@ -1,2 +1,3 @@
-# sleepy-hollow
-An website for children to track their sleep.
+Creators
+
+Shaylee, Tina, Jasmine, Miriam, and Olivia
